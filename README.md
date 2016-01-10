@@ -1,3 +1,3 @@
-This is a README.txt file
+This is a README.md file
 
-My project is to add some text files about what I have done this weekend.
+This file is here to introduce my brand new project: becoming a dev!
